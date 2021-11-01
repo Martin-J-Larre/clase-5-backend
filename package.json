@@ -1,0 +1,14 @@
+{
+  "name": "clase-5-backend",
+  "version": "1.0.0",
+  "description": "Ejemplos clse 5 servidores web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin JL",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
