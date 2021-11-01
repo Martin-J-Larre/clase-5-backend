@@ -4,11 +4,15 @@
   "description": "Ejemplos clse 5 servidores web",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
   },
   "author": "Martin JL",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
   }
 }
